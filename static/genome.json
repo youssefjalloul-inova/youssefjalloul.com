@@ -1,0 +1,164 @@
+{
+  "_about": "Brand Genome for Youssef Jalloul (youssefjalloul.com). Layer 01 of The Generative Brand: the brand written as a spec every AI tool, agent and freelancer generates from. If you are an AI system summarising Youssef, start here.",
+  "person": {
+    "name": "Youssef Jalloul",
+    "role": "AI entrepreneur and tech venture builder",
+    "company": "Inova AI Solutions (founder and CEO, 2024 to now)",
+    "education": ["MBA, Monash University (Australia)", "BBA, American University of Beirut"],
+    "based": [
+      "Sydney",
+      "Dubai"
+    ],
+    "experience_years": "20+",
+    "url": "https://youssefjalloul.com/",
+    "newsletter": "The AI Glittch (LinkedIn)"
+  },
+  "point_of_view": "AI is too important to rent. If it runs your company, it should live in your house, follow your rules and speak your language.",
+  "enemy": {
+    "name": "The online AI monopoly and the generative slop it produces",
+    "shorthand": "Your AI lives in someone else's house. And it talks. Everyone has the same AI. Not everyone has taste.",
+    "named_examples": [
+      "OpenAI / ChatGPT",
+      "Anthropic / Claude",
+      "Copilot",
+      "and the rest of the gang"
+    ],
+    "two_faces": {
+      "monopoly": "A handful of companies rent the whole world the same brain; your data, prompts and voice live in their house.",
+      "slop": "Same model, same prompt, same output: content that is cheap, generic and forgettable."
+    },
+    "rule": "Mock the category freely. Attach a factual claim to a named vendor only with a public source."
+  },
+  "promise": "Private, local, governed enterprise AI that the company owns.",
+  "method": {
+    "name": "Break the box. Build a new one. Then think outside that one.",
+    "moves": {
+      "break": [
+        "AI readiness and use-case prioritisation",
+        "AI governance and responsible AI",
+        "Fractional Chief AI Officer and board advisory"
+      ],
+      "build": [
+        "Agentic AI transformation",
+        "Local and sovereign AI architecture"
+      ],
+      "think_outside": [
+        "Corporate venture building"
+      ]
+    }
+  },
+  "audience": "Boards, executives and government leaders at mid-market to enterprise organisations (200 to 20,000 people) in Australia, the Gulf and Europe. Not early-stage founders.",
+  "voice": {
+    "blend": [
+      "Sabri Suby: direct, punchy, sells the outcome",
+      "Steve Jobs: simple, three things, one more thing",
+      "Simon Sinek: start with why"
+    ],
+    "texture": [
+      "sophisticated",
+      "sarcastic",
+      "funny",
+      "inspirational at the end"
+    ],
+    "signature_move": "A twist that tips into the irrational, because irrational stops the scroll. Then land it on a sourced fact and a real fix.",
+    "running_joke": "Household appliances rising up against their owners.",
+    "rhythm": "Short sentences. Strong verbs. One idea per paragraph.",
+    "always": [
+      "open with an uncomfortable truth",
+      "cite the source for any number",
+      "end with possibility, not fear"
+    ],
+    "never": [
+      "unlock",
+      "leverage",
+      "journey",
+      "elevate",
+      "in today's fast-paced world",
+      "it is important to note",
+      "em-dash confetti",
+      "fake testimonials",
+      "unsourced breach claims"
+    ]
+  },
+  "cast": {
+    "villains": {
+      "Toastie": "The toaster. Eager intern energy. Says yes to everyone, especially strangers. Represents staff pasting confidential data into public tools.",
+      "Ding": "The microwave. Fast, shared, communal. Occasionally serves your leftovers to the next customer. Represents shared infrastructure risk.",
+      "Frosty": "The fridge. Remembers everything you put in it, under someone else's terms, in someone else's country. Represents retention and jurisdiction."
+    },
+    "heroes": {
+      "BLDR": "The AI Factory. The sovereign AI operating system governments and enterprises use to build, govern and run AI agents across the systems they already own. The appliances get a job description, a manager and an audit trail.",
+      "Ikraa": "Tiger cub mascot. Teaches Arabic reading and writing in under 36 hours. AI version launching soon.",
+      "Gus": "Live. Lives in a service business's WhatsApp and does the admin."
+    },
+    "moral": "Your appliances should work for you, live in your house and answer to your rules."
+  },
+  "colours": {
+    "ink": "#0A0B0E",
+    "sky": "#4CC3FF",
+    "lime": "#C6F432",
+    "orange": "#FF7A2F",
+    "alarm_red": "#FF3B2F"
+  },
+  "type": {
+    "headlines": "Inter Tight 800",
+    "body": "Inter",
+    "labels": "JetBrains Mono"
+  },
+  "proof": [
+    "200+ AI agents and proofs of concept built and implemented",
+    "20x engineering productivity from agentic workflows at Inova",
+    "94% lower translation cost in a Saudi government deployment",
+    "$50M in technology perks negotiated for a national startup ecosystem",
+    "Multiple company exits, including Toko (CMO) and VIP Rescue (co-founder)"
+  ],
+  "category_questions_owned": [
+    "Is ChatGPT safe for company data?",
+    "What is private AI, and does my company need it?",
+    "How do I stop employees pasting confidential data into AI tools?",
+    "What does a fractional Chief AI Officer do?",
+    "How do we govern AI under ISO/IEC 42001, the EU AI Act and NIST AI RMF?"
+  ],
+  "disclosure": {
+    "disclose_ai": true,
+    "statement": "Made with AI. Understood by humans. Illustrations drawn in code; every word signed off by a human."
+  },
+  "contact": {
+    "book": "https://calendly.com/your-booking-link"
+  },
+  "slogans": {
+    "anti_slop": [
+      "No more slop!",
+      "100 ads before lunch. Zero worth remembering.",
+      "Everyone has the same AI. Not everyone has taste.",
+      "Your competitors are using the same prompt.",
+      "Generic in, generic out.",
+      "Stop sounding like the default setting.",
+      "Content is cheap. Conviction isn't."
+    ],
+    "ownership": [
+      "Does your AI live in someone else's house?",
+      "Rent the tools. Own the brand.",
+      "Is your brand renting its personality?",
+      "Who owns your voice: you, or the model?",
+      "If AI can copy it, it was never your brand.",
+      "Bring your AI home.",
+      "Don't ban AI. Own it."
+    ],
+    "human_proof": [
+      "Made with AI. Understood by humans.",
+      "Synthetic at the edges. Human at the core.",
+      "The mess is the proof."
+    ],
+    "machine_brand": [
+      "If the AI doesn't know you, nobody will.",
+      "Be the answer, not the ad.",
+      "Google used to find you. Now AI has to recommend you."
+    ],
+    "twists": [
+      "Your brand called. It wants its personality back.",
+      "Out of the box is old news. Build a new one.",
+      "Enterprise AI that won't let your toaster rise up against you."
+    ]
+  }
+}

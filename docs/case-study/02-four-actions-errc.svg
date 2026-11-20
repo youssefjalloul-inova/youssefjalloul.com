@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 566" width="1000" height="566" role="img" aria-labelledby="t d">
+<title id="t">Eliminate, reduce, raise, create</title><desc id="d">Blue Ocean · Four Actions framework</desc>
+<rect width="1000" height="566" rx="18" fill="#101217"/>
+<rect x="0.5" y="0.5" width="999" height="565" rx="18" fill="none" stroke="rgba(255,255,255,0.16)"/>
+<text x="36" y="46" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.9" fill="#C6F432">BLUE OCEAN · FOUR ACTIONS FRAMEWORK</text>
+<text x="36" y="80" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="26" font-weight="800" letter-spacing="-0.6" fill="#F3F4F6">Eliminate, reduce, raise, create</text>
+<rect x="36" y="116" width="452" height="186" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<rect x="36" y="116" width="452" height="4" rx="2" fill="#FF7A2F"/>
+<text x="60" y="156" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.6" fill="#FF7A2F">01</text>
+<text x="92" y="158" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="21" font-weight="800" fill="#F3F4F6">Eliminate</text>
+<text x="60" y="198" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#FF7A2F">→</text>
+<text x="82" y="198" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Slide-only deliverables with no working build</text>
+<text x="60" y="230" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#FF7A2F">→</text>
+<text x="82" y="230" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Lock-in to a single public-cloud model</text>
+<text x="60" y="262" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#FF7A2F">→</text>
+<text x="82" y="262" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Months of discovery before anything ships</text>
+<rect x="512" y="116" width="452" height="186" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<rect x="512" y="116" width="452" height="4" rx="2" fill="#4CC3FF"/>
+<text x="536" y="156" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.6" fill="#4CC3FF">02</text>
+<text x="568" y="158" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="21" font-weight="800" fill="#F3F4F6">Reduce</text>
+<text x="536" y="198" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#4CC3FF">→</text>
+<text x="558" y="198" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Jargon in buyer-facing copy</text>
+<text x="536" y="230" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#4CC3FF">→</text>
+<text x="558" y="230" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Size of the first commitment (free self-check)</text>
+<text x="536" y="262" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#4CC3FF">→</text>
+<text x="558" y="262" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Reliance on generic stock imagery</text>
+<rect x="36" y="322" width="452" height="186" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<rect x="36" y="322" width="452" height="4" rx="2" fill="#7BE0C9"/>
+<text x="60" y="362" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.6" fill="#7BE0C9">03</text>
+<text x="92" y="364" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="21" font-weight="800" fill="#F3F4F6">Raise</text>
+<text x="60" y="404" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#7BE0C9">→</text>
+<text x="82" y="404" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Data sovereignty: private, local AI by default</text>
+<text x="60" y="436" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#7BE0C9">→</text>
+<text x="82" y="436" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Hands-on build: strategy that ships code</text>
+<text x="60" y="468" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#7BE0C9">→</text>
+<text x="82" y="468" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Proof: every claim carries a number and a source</text>
+<rect x="512" y="322" width="452" height="186" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<rect x="512" y="322" width="452" height="4" rx="2" fill="#C6F432"/>
+<text x="536" y="362" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.6" fill="#C6F432">04</text>
+<text x="568" y="364" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="21" font-weight="800" fill="#F3F4F6">Create</text>
+<text x="536" y="404" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#C6F432">→</text>
+<text x="558" y="404" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Self-check quiz that scores AI readiness</text>
+<text x="536" y="436" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#C6F432">→</text>
+<text x="558" y="436" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Machine layer for AI search (genome.json, llms.txt)</text>
+<text x="536" y="468" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#C6F432">→</text>
+<text x="558" y="468" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#D7DAE1">Booking-first journey from every page</text>
+<text x="36" y="542" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="0.6" fill="#7D8492">Applied to the offer the website sells, not to the website alone.</text>
+</svg>

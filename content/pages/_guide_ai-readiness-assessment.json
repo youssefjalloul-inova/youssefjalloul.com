@@ -1,0 +1,100 @@
+
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebPage",
+   "@id": "https://youssefjalloul.com/ai-readiness-assessment.html#webpage",
+   "url": "https://youssefjalloul.com/ai-readiness-assessment.html",
+   "name": "AI Readiness Assessment for Mid-Market & Enterprise | Youssef Jalloul",
+   "description": "An AI readiness assessment scores strategy, data, technology, people, governance and change, then ranks the use cases worth funding. Typically 2–4 weeks. Led by Youssef Jalloul.",
+   "isPartOf": {
+    "@id": "https://youssefjalloul.com/#site"
+   },
+   "about": {
+    "@id": "https://youssefjalloul.com/#service"
+   },
+   "author": {
+    "@id": "https://youssefjalloul.com/#person"
+   },
+   "inLanguage": "en",
+   "datePublished": "2026-11-09",
+   "dateModified": "2026-11-09",
+   "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+     ".phero h1",
+     ".answer"
+    ]
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://youssefjalloul.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "AI readiness assessment for mid-market and enterprise organisations",
+     "item": "https://youssefjalloul.com/ai-readiness-assessment.html"
+    }
+   ]
+  },
+  {
+   "@type": "Service",
+   "name": "AI readiness assessment",
+   "url": "https://youssefjalloul.com/ai-readiness-assessment.html",
+   "provider": {
+    "@id": "https://youssefjalloul.com/#person"
+   },
+   "areaServed": [
+    "Australia",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "Europe"
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How long does an AI readiness assessment take?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For a mid-sized organisation it typically takes two to four weeks. Smaller scopes can be done in two weeks, and organisations with several business units or regulated environments take longer."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What do you need from us?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An executive sponsor, six to ten stakeholder interviews, access to key documents, systems and data catalogues, and two working sessions with your leadership team."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you recommend specific vendors or platforms?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The assessment is vendor-neutral. It identifies what capability you need and whether to build, buy or partner. If implementation follows, any work through Inova AI Solutions is proposed separately and disclosed upfront."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What happens after the assessment?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You choose: run the roadmap with your own team, add a governance build, bring in delivery support, or keep me on as a fractional Chief AI Officer to own the roadmap with you."
+     }
+    }
+   ]
+  }
+ ]
+}

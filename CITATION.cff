@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "youssefjalloul.com: case study and front-end"
+type: software
+authors:
+  - given-names: Youssef
+    family-names: Jalloul
+    alias: YJ
+    website: "https://youssefjalloul.com"
+url: "https://youssefjalloul.com"
+repository-code: "https://github.com/youssefjalloul-inova/youssefjalloul.com"
+abstract: >-
+  Case study and front-end of the personal brand site of Youssef Jalloul, an AI
+  entrepreneur and venture builder. Covers positioning, information architecture,
+  UX decisions, the logo story and a static build.
+keywords:
+  - personal brand
+  - product design
+  - front-end
+  - case study
+  - enterprise AI
+date-released: "2026-11-09"

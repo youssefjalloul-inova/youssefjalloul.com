@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" width="1000" height="430" role="img" aria-labelledby="t d">
+<title id="t">From a blank page to a live site</title><desc id="d">Process · Design Council Double Diamond</desc>
+<rect width="1000" height="430" rx="18" fill="#101217"/>
+<rect x="0.5" y="0.5" width="999" height="429" rx="18" fill="none" stroke="rgba(255,255,255,0.16)"/>
+<text x="36" y="46" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.9" fill="#C6F432">PROCESS · DESIGN COUNCIL DOUBLE DIAMOND</text>
+<text x="36" y="80" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="26" font-weight="800" letter-spacing="-0.6" fill="#F3F4F6">From a blank page to a live site</text>
+<path d="M36 205 L264 120 L264 290 Z" fill="#4CC3FF" fill-opacity="0.08" stroke="#4CC3FF" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="177.35999999999999" y="212" text-anchor="middle" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="20" font-weight="800" fill="#F3F4F6">Discover</text>
+<text x="48" y="318" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#4CC3FF">→ </tspan>Buying-committee roles</text>
+<text x="48" y="339" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#4CC3FF">→ </tspan>Competitive alternatives</text>
+<text x="48" y="360" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#4CC3FF">→ </tspan>Hero, villain and cast story</text>
+<path d="M264 120 L492 205 L264 290 Z" fill="#7BE0C9" fill-opacity="0.08" stroke="#7BE0C9" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="346.08" y="212" text-anchor="middle" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="20" font-weight="800" fill="#F3F4F6">Define</text>
+<text x="276" y="318" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#7BE0C9">→ </tspan>Enterprise + government focus</text>
+<text x="276" y="339" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#7BE0C9">→ </tspan>Positioning + jobs to be done</text>
+<text x="276" y="360" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#7BE0C9">→ </tspan>Success metrics set upfront</text>
+<path d="M492 205 L720 120 L720 290 Z" fill="#A2EA7E" fill-opacity="0.08" stroke="#A2EA7E" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="633.36" y="212" text-anchor="middle" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="20" font-weight="800" fill="#F3F4F6">Develop</text>
+<text x="504" y="318" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#A2EA7E">→ </tspan>5 visual directions tested</text>
+<text x="504" y="339" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#A2EA7E">→ </tspan>Think Outside design system</text>
+<text x="504" y="360" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#A2EA7E">→ </tspan>Sitemap + awareness mapping</text>
+<path d="M720 120 L948 205 L720 290 Z" fill="#C6F432" fill-opacity="0.08" stroke="#C6F432" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="802.08" y="212" text-anchor="middle" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="20" font-weight="800" fill="#F3F4F6">Deliver</text>
+<text x="732" y="318" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#C6F432">→ </tspan>Static build, 14 page types</text>
+<text x="732" y="339" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#C6F432">→ </tspan>Machine layer for AI search</text>
+<text x="732" y="360" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1"><tspan fill="#C6F432">→ </tspan>Live 9 Nov 2026</text>
+<text x="264" y="110" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" letter-spacing="1.4" fill="#7D8492">PROBLEM SPACE</text>
+<text x="720" y="110" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" letter-spacing="1.4" fill="#7D8492">SOLUTION SPACE</text>
+</svg>

@@ -1,0 +1,278 @@
+
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://youssefjalloul.com/#site",
+   "url": "https://youssefjalloul.com/",
+   "name": "Youssef Jalloul",
+   "inLanguage": "en",
+   "publisher": {
+    "@id": "https://youssefjalloul.com/#person"
+   }
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://youssefjalloul.com/#webpage",
+   "url": "https://youssefjalloul.com/",
+   "name": "Youssef Jalloul | AI Entrepreneur, Venture Builder & Enterprise AI Advisor",
+   "isPartOf": {
+    "@id": "https://youssefjalloul.com/#site"
+   },
+   "about": {
+    "@id": "https://youssefjalloul.com/#person"
+   },
+   "inLanguage": "en",
+   "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+     ".hero h1",
+     ".hero .lead",
+     ".faq .a"
+    ]
+   }
+  },
+  {
+   "@type": "Person",
+   "@id": "https://youssefjalloul.com/#person",
+   "name": "Youssef Jalloul",
+   "url": "https://youssefjalloul.com/",
+   "image": "https://youssefjalloul.com/assets/img/og-v2.png",
+   "jobTitle": "AI Entrepreneur and Tech Venture Builder",
+   "description": "AI entrepreneur and tech venture builder with 20+ years of experience advising boards, executives and governments on enterprise AI readiness, governance and implementation.",
+   "worksFor": {
+    "@type": "Organization",
+    "name": "Inova AI Solutions",
+    "url": "https://www.inovasolutions.ai"
+   },
+   "alumniOf": [
+    {
+     "@type": "CollegeOrUniversity",
+     "name": "American University of Beirut"
+    }
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Sydney",
+    "addressRegion": "NSW",
+    "addressCountry": "AU"
+   },
+   "sameAs": [
+    "https://www.inovasolutions.ai",
+    "https://www.higus.ai",
+   "https://www.linkedin.com/newsletters/the-ai-glittch-7332984165379805188/"
+   ],
+   "knowsAbout": [
+    "Enterprise AI strategy",
+    "AI governance",
+    "Responsible AI",
+    "AI readiness assessment",
+    "ISO/IEC 42001",
+    "EU AI Act",
+    "NIST AI RMF",
+    "Agentic AI",
+    "Fractional Chief AI Officer",
+    "Sovereign AI",
+    "Venture building", "Public speaking", "Startup mentoring",
+    "Digital transformation"
+   ]
+  },
+  {
+   "@type": "ProfessionalService",
+   "@id": "https://youssefjalloul.com/#service",
+   "name": "Youssef Jalloul: Enterprise AI Advisory",
+   "url": "https://youssefjalloul.com/",
+   "founder": {
+    "@id": "https://youssefjalloul.com/#person"
+   },
+   "areaServed": [
+    "Australia",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "Europe"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Enterprise AI advisory services",
+    "itemListElement": [
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "AI readiness assessment and use-case prioritisation",
+       "url": "https://youssefjalloul.com/ai-readiness-assessment.html",
+       "provider": {
+        "@id": "https://youssefjalloul.com/#person"
+       }
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "AI governance and responsible AI advisory",
+       "url": "https://youssefjalloul.com/ai-governance-advisory.html",
+       "provider": {
+        "@id": "https://youssefjalloul.com/#person"
+       }
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Fractional Chief AI Officer and board advisory",
+       "url": "https://youssefjalloul.com/fractional-chief-ai-officer.html",
+       "provider": {
+        "@id": "https://youssefjalloul.com/#person"
+       }
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Agentic AI transformation",
+       "url": "https://youssefjalloul.com/services.html#build",
+       "provider": {
+        "@id": "https://youssefjalloul.com/#person"
+       }
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Local and sovereign AI architecture",
+       "url": "https://youssefjalloul.com/private-ai.html",
+       "provider": {
+        "@id": "https://youssefjalloul.com/#person"
+       }
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Corporate venture building",
+       "url": "https://youssefjalloul.com/services.html#outside",
+       "provider": {
+        "@id": "https://youssefjalloul.com/#person"
+       }
+      }
+     }
+    ]
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does an enterprise AI strategy advisor do?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An enterprise AI strategy advisor helps leadership decide where AI creates measurable value, what to build, buy or partner on, how to govern risk, and how to move pilots into production. In practice that means use-case prioritisation, operating model, data and technology architecture, governance and change management."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is an AI readiness assessment, and how long does it take?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An AI readiness assessment scores an organisation across strategy, data, technology, people, governance and change readiness, then ranks the use cases worth funding first. For a mid-sized organisation it typically takes two to four weeks and ends with a scored map, a prioritised use-case list and a 12-month roadmap."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is a fractional Chief AI Officer?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A fractional Chief AI Officer is a senior AI executive engaged part-time on a retainer. They own the AI roadmap, governance and vendor decisions without the cost of a full-time hire, and can help define the permanent role when the organisation is ready."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does a fractional Chief AI Officer cost?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Market retainers for fractional Chief AI Officers generally run from about $3,000 to more than $30,000 a month, compared with full-time Chief AI Officer base salaries of $500,000 to $750,000 at public companies with 2,000 to 5,000 employees (Christian & Timbers, 2026). My engagements are scoped to your situation, and the intro call gives you a realistic shape and range."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "When should a company hire a full-time Chief AI Officer instead?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Hire full-time when AI is core to your strategy, you already run a mature AI function and the role needs permanent ownership across the business. Most organisations benefit from a fractional leader for 12 to 18 months first, and boards should start the permanent search while the fractional leader is still in place because senior AI roles can take 50+ days to fill."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Why do most AI pilots fail to scale?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pilots usually stall for organisational reasons rather than technical ones: no business owner accountable for outcomes, data that isn't ready or cleared for AI use, governance added late, and workflows that never changed so adoption stays low. MIT's Project NANDA found 95% of enterprise generative-AI pilots delivered no measurable P&L impact."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do you approach AI governance, ISO 42001, the EU AI Act and NIST AI RMF?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "I build one auditable governance system first: policy, risk tiers, human-in-the-loop controls, vendor and model oversight, and board reporting. I then map it to ISO/IEC 42001, the EU AI Act and the NIST AI Risk Management Framework as they apply to your markets. This is advisory work, not legal advice, and I work alongside your counsel."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is ISO/IEC 42001 certification mandatory, and how long does it take?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ISO/IEC 42001 is a voluntary, certifiable AI management-system standard, but enterprise buyers increasingly ask for it in procurement. It does not replace legal compliance work such as the EU AI Act, and certification commonly takes 6 to 18 months, so starting the governance programme early matters."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you only advise, or do you also build AI systems?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Both. Strategy and governance are delivered independently, and implementation is delivered through Inova AI Solutions, which has built 200+ AI agents and proofs of concept across B2B industries. If you'd rather use another delivery partner, I'm happy to stay on the advisory side."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do you stay independent when you also run Inova AI Solutions?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Advisory is scoped and priced on its own, any implementation work through Inova is proposed separately and disclosed upfront, and you can take my recommendations to any delivery partner. If a use case doesn't pay back, I'll say so."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can AI be deployed locally or in-country?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Local and sovereign architectures keep data in-country or on-premises, support Arabic and multilingual use, and are designed around data-residency and regulatory requirements. Examples include a live translation platform covering 120+ languages for a Saudi government directorate and a UAE-hosted medical assistant."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which organisations and regions do you work with?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Mid-market to enterprise organisations and government bodies in Australia, the Middle East and Europe, especially regulated sectors such as financial services, healthcare, education, telecoms, insurance and the public sector."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I get started?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Book a strategy call. Bring one challenge, such as stalled pilots, a governance question or a board brief, and you'll leave with a view on the right first move and the likely shape of an engagement."
+     }
+    }
+   ]
+  }
+ ]
+}

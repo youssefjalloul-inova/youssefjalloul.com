@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" role="img" aria-labelledby="t d">
+<title id="t">Break the box, build a new one, think outside it</title><desc id="d">Brand identity · How the mark was made</desc>
+<rect width="1000" height="440" rx="18" fill="#101217"/>
+<rect x="0.5" y="0.5" width="999" height="439" rx="18" fill="none" stroke="rgba(255,255,255,0.16)"/>
+<text x="36" y="46" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.9" fill="#C6F432">BRAND IDENTITY · HOW THE MARK WAS MADE</text>
+<text x="36" y="80" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="26" font-weight="800" letter-spacing="-0.6" fill="#F3F4F6">Break the box, build a new one, think outside it</text>
+<defs><linearGradient id="sg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4CC3FF"/><stop offset=".5" stop-color="#7BE0C9"/><stop offset="1" stop-color="#C6F432"/></linearGradient></defs>
+<rect x="36" y="108" width="214" height="180" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<text x="52" y="134" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.4" fill="#7D8492">STAGE 01</text>
+<circle cx="143.0" cy="206" r="46" fill="none" stroke="#A0A6B3" stroke-width="1.5"/>
+<text x="143.0" y="220" text-anchor="middle" font-family="Brush Script MT,Segoe Script,cursive" font-style="italic" font-size="40" fill="#D7DAE1">YJ</text>
+<text x="52" y="316" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#F3F4F6">Signature</text>
+<text x="52" y="340" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">Handwritten wordmark and a</text>
+<text x="52" y="358" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">circle seal. Felt personal,</text>
+<text x="52" y="376" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">read as thin.</text>
+<rect x="264" y="108" width="214" height="180" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<text x="280" y="134" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.4" fill="#7D8492">STAGE 02</text>
+<path d="M327.0 178 L327.0 162 L343.0 162" fill="none" stroke="#A0A6B3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M415.0 178 L415.0 162 L399.0 162" fill="none" stroke="#A0A6B3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M327.0 234 L327.0 250 L343.0 250" fill="none" stroke="#A0A6B3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M415.0 234 L415.0 250 L399.0 250" fill="none" stroke="#A0A6B3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="371.0" y="220" text-anchor="middle" font-family="Brush Script MT,Segoe Script,cursive" font-style="italic" font-size="38" fill="#D7DAE1">YJ</text>
+<text x="280" y="316" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#F3F4F6">Frame</text>
+<text x="280" y="340" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">Viewfinder corners around the</text>
+<text x="280" y="358" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">initials: the box.</text>
+<rect x="492" y="108" width="214" height="180" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<text x="508" y="134" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.4" fill="#7D8492">STAGE 03</text>
+<path d="M555.0 178 L555.0 162 L571.0 162" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M643.0 178 L643.0 162 L627.0 162" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M555.0 234 L555.0 250 L571.0 250" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M643.0 234 L643.0 250 L627.0 250" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="599.0" y="220" text-anchor="middle" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-weight="800" font-size="40" letter-spacing="-1.5" fill="#F3F4F6">YJ</text>
+<text x="508" y="316" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#F3F4F6">Bold</text>
+<text x="508" y="340" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">Solid Inter Tight 800 initials.</text>
+<text x="508" y="358" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">Authority over ornament.</text>
+<rect x="720" y="108" width="214" height="180" rx="14" fill="#171A21" stroke="rgba(255,255,255,0.09)"/>
+<text x="736" y="134" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.4" fill="#C6F432">STAGE 04</text>
+<path d="M783.0 178 L783.0 162 L799.0 162" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M887.0 162 L887.0 146 L871.0 146" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M783.0 234 L783.0 250 L799.0 250" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M871.0 234 L871.0 250 L855.0 250" fill="none" stroke="url(#sg)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="827.0" y="220" text-anchor="middle" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-weight="800" font-size="40" letter-spacing="-1.5" fill="#F3F4F6">YJ</text>
+<circle cx="899.0" cy="134" r="6" fill="#FF7A2F"/>
+<text x="736" y="316" font-family="'Inter Tight','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#F3F4F6">Escape</text>
+<text x="736" y="340" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">One corner breaks out with an</text>
+<text x="736" y="358" font-family="'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#D7DAE1">orange spark: think outside it.</text>
+<text x="36" y="416" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="0.6" fill="#7D8492">Schematic redraw of each stage. Original logo files are in docs/brand/.</text>
+</svg>

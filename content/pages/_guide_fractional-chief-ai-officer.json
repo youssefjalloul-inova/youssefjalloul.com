@@ -1,0 +1,100 @@
+
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebPage",
+   "@id": "https://youssefjalloul.com/fractional-chief-ai-officer.html#webpage",
+   "url": "https://youssefjalloul.com/fractional-chief-ai-officer.html",
+   "name": "Fractional Chief AI Officer for Mid-Market & Enterprise | Youssef Jalloul",
+   "description": "A fractional Chief AI Officer owns your AI strategy, governance and vendor decisions part-time, without a full-time hire. Independent, operator-led counsel from Youssef Jalloul.",
+   "isPartOf": {
+    "@id": "https://youssefjalloul.com/#site"
+   },
+   "about": {
+    "@id": "https://youssefjalloul.com/#service"
+   },
+   "author": {
+    "@id": "https://youssefjalloul.com/#person"
+   },
+   "inLanguage": "en",
+   "datePublished": "2026-11-09",
+   "dateModified": "2026-11-09",
+   "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+     ".phero h1",
+     ".answer"
+    ]
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://youssefjalloul.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Fractional Chief AI Officer for mid-market and enterprise teams",
+     "item": "https://youssefjalloul.com/fractional-chief-ai-officer.html"
+    }
+   ]
+  },
+  {
+   "@type": "Service",
+   "name": "Fractional Chief AI Officer",
+   "url": "https://youssefjalloul.com/fractional-chief-ai-officer.html",
+   "provider": {
+    "@id": "https://youssefjalloul.com/#person"
+   },
+   "areaServed": [
+    "Australia",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "Europe"
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How much does a fractional Chief AI Officer cost?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Market retainers generally run from about $3,000 to more than $30,000 a month (Christian & Timbers, 2026). My engagements are scoped to your situation, and the intro call gives you a realistic shape and range."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much time does a fractional CAIO commit?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The commitment is set as a monthly rhythm agreed on the intro call, based on your size, risk profile and number of active initiatives, rather than billed task by task."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can you help us hire a permanent Chief AI Officer?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. A common pattern is to use a fractional leader to set governance and scope the permanent role, then start the permanent search while they are still in place."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you replace our CIO or CTO?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. A fractional Chief AI Officer works alongside them, owning AI strategy, governance and vendor decisions while technology leaders keep running infrastructure and delivery."
+     }
+    }
+   ]
+  }
+ ]
+}
